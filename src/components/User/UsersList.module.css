@@ -1,0 +1,24 @@
+.users-list__card {
+  background-color: #f39d88;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  font-weight: bold;
+}
+
+.users-list {
+  list-style: none;
+  padding: 0;
+}
+
+.user {
+  padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+  border-color: slateblue;
+  border-style: solid;
+  margin-bottom: 1em;
+  text-align: left;
+}
